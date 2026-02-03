@@ -1,0 +1,5 @@
+
+import { DECLENSIONS_DATA, EXERCISES_DATA } from './database';
+
+export const DECLENSIONS = DECLENSIONS_DATA;
+export const INITIAL_EXERCISES = EXERCISES_DATA;
