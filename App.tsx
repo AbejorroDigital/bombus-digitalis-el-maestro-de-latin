@@ -28,7 +28,7 @@ const App: React.FC = () => {
         return (
           <div className="text-center py-20 space-y-10 animate-fadeIn">
             <div className="space-y-4">
-              <div className="text-6xl mb-4">🐝</div>
+              <div className="text-6xl animate-bee mb-4">🐝</div>
               <h2 className="text-5xl font-cinzel font-bold text-red-900 tracking-tighter">BOMBUS DIGITALIS</h2>
               <p className="text-xl text-slate-600 font-serif max-w-2xl mx-auto italic">
                 "Lingua latina non mortua est, sed immortalis." El zumbido del saber clásico en la era digital.
