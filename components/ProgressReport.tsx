@@ -28,7 +28,7 @@ const ProgressReport: React.FC<Props> = ({ result, onReset }) => {
     <div className="max-w-2xl mx-auto text-center py-12 animate-fadeIn">
       <div className="bg-white rounded-2xl shadow-2xl p-10 border-4 border-amber-600">
         <div className="mb-8">
-           <div className="text-4xl animate-bee mb-4">🐝</div>
+           <div className="text-4xl mb-4">🐝</div>
            <h2 className="text-4xl font-cinzel font-bold text-red-900 mb-2">Reporte del Bombus</h2>
            <p className="italic text-slate-500">Análisis de tu vuelo gramatical</p>
         </div>
